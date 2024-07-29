@@ -33,4 +33,4 @@ make
 make send
 ```
 
-If you don't know how to use hexload utility please read [this](https://mikolajczyk.org/posts/agon-hexload-wsl/) post.
+If you don't know how to use hexload(`make send`) utility please read [this](https://mikolajczyk.org/posts/agon-hexload-wsl/) post.
